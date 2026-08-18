@@ -205,7 +205,7 @@ const groups = [
                 color: "#fbd48f",
                 colorname: "Laranja Pastel",
                 emoji: "🍚",
-                instagram: "N/A",
+                instagram: "jojo.and_",
                 facts: [
                     "Ele nasceu em Yokohama, na província de Kanagawa, Japão.",
                     "Jo é canhoto.",
@@ -345,8 +345,8 @@ const groups = [
             },
             {
                 language: "Japonês",
-                link: "https://www.youtube.com/watch?v=2iK3ccCsI6s&t=1s",
-                thumb: "https://i.ytimg.com/vi/2iK3ccCsI6s/maxresdefault.jpg"
+                link: "https://www.youtube.com/watch?v=inxzQt78lOk",
+                thumb: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt6dEMc-yTrjhdxFGkYXS0pI7QlgtJ3aFMDZPttb8c97fkPGfBvD0dFQDG&s=10"
             },
             {
                 language: "Inglês",
@@ -514,8 +514,8 @@ const groups = [
         latestReleases: [
             {
                 language: "Coreano",
-                link: "https://www.youtube.com/watch?v=J-bEGflpV9k",
-                thumb: "https://i.ytimg.com/vi/J-bEGflpV9k/hqdefault.jpg?v=684aa086"
+                link: "https://www.youtube.com/watch?v=5fNS_nqwVWo",
+                thumb: "https://i.ytimg.com/vi/5fNS_nqwVWo/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC6u--jF754xu6P1_JIC8mwrJbrSw"
             }
         ],
         members: [
@@ -660,7 +660,7 @@ const groups = [
     },
     {
         name: "BABYMONSTER",
-        image: "https://pbs.twimg.com/media/HMO-lvTbAAABg-K.jpg",
+        image: "https://cdn.kpopping.com/kpics/2026/07/1785424641468-wcf3kr-0.jpg",
         debut: "27 de novembro de 2023",
         company: "YG Entertainment",
         fandom: "MONSTIEZ",
@@ -685,7 +685,7 @@ const groups = [
         members: [
             {
                 name: "Ruka",
-                image: "https://cdn.kpopping.com/kpics/2026/06/1782834277745-uel1q8-3.jpg",
+                image: "https://cdn.kpopping.com/kpics/2026/07/1785347492175-e8am3w-1.jpg",
                 birthname: "Kawai Ruka (河井瑠花)",
                 englishname: "N/A",
                 position: "Dançarina principal, Rapper principal",
@@ -721,7 +721,7 @@ const groups = [
             },
             {
                 name: "Pharita",
-                image: "https://cdn.kpopping.com/kpics/2026/06/1782834277745-g16axf-5.jpg",
+                image: "https://cdn.kpopping.com/kpics/2026/07/1785166564639-46hugb-1.jpg",
                 birthname: "Pharita Boonpakdeethaveeyod (ภริตา บุญภักดีทวียศ)",
                 englishname: "N/A",
                 position: "Vocalista",
@@ -757,7 +757,7 @@ const groups = [
             },
             {
                 name: "Asa",
-                image: "https://cdn.kpopping.com/kpics/2026/06/1782834277745-wpj38y-0.jpg",
+                image: "https://cdn.kpopping.com/kpics/2026/07/1785166564638-ye908y-0.jpg",
                 birthname: "Enami Asa (榎並杏紗)",
                 englishname: "N/A",
                 position: "Rapper principal, Vocalista, Dançarina",
@@ -793,7 +793,7 @@ const groups = [
             },
             {
                 name: "Ahyeon",
-                image: "https://cdn.kpopping.com/kpics/2026/06/1782834277745-hrgam0-2.jpg",
+                image: "https://cdn.kpopping.com/kpics/2026/07/1785252921124-nwztet-1.jpg",
                 birthname: "Jung Ahyeon (정아현)",
                 englishname: "N/A",
                 position: "Vocalista principal, Rapper, Dançarina, Visual, Center",
@@ -829,7 +829,7 @@ const groups = [
             },
             {
                 name: "Rora",
-                image: "https://cdn.kpopping.com/kpics/2026/06/1782834277745-2h7xqd-1.jpg",
+                image: "https://cdn.kpopping.com/kpics/2026/07/1785252921123-tgsrid-0.jpg",
                 birthname: "Lee Dain (이다인)",
                 englishname: "N/A",
                 position: "Vocalista líder, Visual",
@@ -865,7 +865,7 @@ const groups = [
             },
             {
                 name: "Chiquita",
-                image: "https://cdn.kpopping.com/kpics/2026/06/1782834277745-xdsjcp-4.jpg",
+                image: "https://cdn.kpopping.com/kpics/2026/07/1785347492175-eyc6j2-0.jpg",
                 birthname: "Riracha Phondechaphiphat (ริราชา พรเดชาพิพัฒน์)",
                 englishname: "N/A",
                 position: "Vocalista, Dançarina, Rapper, Maknae",
@@ -1608,7 +1608,7 @@ const groups = [
     },
     {
         name: "BOYNEXTDOOR",
-        image: "https://cdn.kpopping.com/kpics/2026/05/1779927254082-h2i9ab-0.png",
+        image: "https://pbs.twimg.com/media/HPIC3e3WsAARL7T?format=jpg&name=medium",
         debut: "30 de maio de 2023",
         company: "KOZ Entertainment",
         fandom: "ONEDOOR",
@@ -1621,14 +1621,14 @@ const groups = [
             },
             {
                 language: "Japonês",
-                link: "https://www.youtube.com/watch?v=Dbxfo8YBkYE",
-                thumb: "https://i.ytimg.com/vi/Dbxfo8YBkYE/maxresdefault.jpg"
+                link: "https://www.youtube.com/watch?v=ntLoF0LnAwY",
+                thumb: "https://pbs.twimg.com/media/HP5e-UGaUAEa7ss.jpg"
             }
         ],
         members: [
             {
                 name: "Jaehyun",
-                image: "https://cdn.kpopping.com/kpics/2026/05/1779927552587-d90znm-1.png",
+                image: "https://pbs.twimg.com/media/HPIDTtcWsAEfa-l?format=jpg&name=medium",
                 birthname: "Myung Jae-hyun (명재현)",
                 englishname: "N/A",
                 position: "Líder",
@@ -1663,7 +1663,7 @@ const groups = [
             },
             {
                 name: "Sungho",
-                image: "https://cdn.kpopping.com/kpics/2026/05/1779927336691-yf4vjl-1.png",
+                image: "https://pbs.twimg.com/media/HPIC4CqXEAA5XKJ?format=jpg&name=medium",
                 birthname: "Park Sung-ho (박성호)",
                 englishname: "N/A",
                 position: "Vocalista principal",
@@ -1698,7 +1698,7 @@ const groups = [
             },
             {
                 name: "Riwoo",
-                image: "https://cdn.kpopping.com/kpics/2026/05/1779927447561-n4xram-1.png",
+                image: "https://pbs.twimg.com/media/HPIC6qHX0AADgIK?format=jpg&name=medium",
                 birthname: "Lee Sang-hyuk (이상혁)",
                 englishname: "N/A",
                 position: "Dançarino principal",
@@ -1731,7 +1731,7 @@ const groups = [
             },
             {
                 name: "Taesan",
-                image: "https://cdn.kpopping.com/kpics/2026/05/1779927608268-4ft8wx-1.png",
+                image: "https://pbs.twimg.com/media/HPIDVDqXsAAyxvg?format=jpg&name=medium",
                 birthname: "Han Dong-min (한동민)",
                 englishname: "N/A",
                 position: "N/A",
@@ -1777,7 +1777,7 @@ const groups = [
             },
             {
                 name: "Leehan",
-                image: "https://cdn.kpopping.com/kpics/2026/05/1779927853690-7mmp96-1.png",
+                image: "https://pbs.twimg.com/media/HPIDVf6WUAEySMH?format=jpg&name=medium",
                 birthname: "Kim Dong-hyun (김동현)",
                 englishname: "N/A",
                 position: "N/A",
@@ -1813,7 +1813,7 @@ const groups = [
             },
             {
                 name: "Woonhak",
-                image: "https://cdn.kpopping.com/kpics/2026/05/1779928471951-g2z8ar-0.png",
+                image: "https://pbs.twimg.com/media/HPIDXmpXMAAtsR6?format=jpg&name=medium",
                 birthname: "Kim Woon-hak (김운학)",
                 englishname: "N/A",
                 position: "Maknae",
@@ -1856,8 +1856,8 @@ const groups = [
         latestReleases: [
             {
                 language: "Coreano",
-                link: "https://www.youtube.com/watch?v=hOIY3OhvD94",
-                thumb: "https://i.ytimg.com/vi/hOIY3OhvD94/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBVRSBofChIHxfJ_ttHaRjjBCgq6A"
+                link: "https://www.youtube.com/watch?v=h7ITAdTxdxM",
+                thumb: "https://i.ytimg.com/vi/h7ITAdTxdxM/maxresdefault.jpg"
             }
         ],
         members: [
@@ -2330,7 +2330,7 @@ const groups = [
     },
     {
         name: "ENHYPEN",
-        image: "https://phinf.wevpstatic.net/MjAyNjAxMDlfNiAg/MDAxNzY3OTM5NDkyMDY3.32dhHvyCQ3OJvJw8i6RGpgltHem3X0NyGgkVi2qoKDwg.Gn-hUIDiEHDxQJMx_DxW6WxTJ-rLLyb-q9N0Kiu9jSUg.JPEG/c9beb932-f5a8-4891-9ee0-976f7fab1949.jpeg",
+        image: "https://cdn.kpopping.com/kpics/2026/07/1784208393916-ap9lq8-0.jpg",
         debut: "30 de novembro de 2020",
         company: "BE:LIFT Lab",
         fandom: "ENGENE",
@@ -2355,7 +2355,7 @@ const groups = [
         members: [
             {
                 name: "Jungwon",
-                image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf-zMQlqRgd6Te-fq9su9tNiha4FRqOczPx9NUOz44xShZRaHWksZZnHje&s=10",
+                image: "https://cdn.kpopping.com/kpics/2026/07/1784293780441-4eiml1-1.jpg",
                 birthname: "Yang Jung-won (양정원)",
                 englishname: "Johnny Yang",
                 position: "Líder",
@@ -2393,7 +2393,7 @@ const groups = [
             },
             {
                 name: "Jay",
-                image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQw7lXCtNBItq9l-BAILx_q8grieW6nFXnPqTtGYBmiuTGPUKvqHPcl3w&s=10",
+                image: "https://cdn.kpopping.com/kpics/2026/07/1784554177018-j7czeu-0.webp",
                 birthname: "Jay Park",
                 englishname: "N/A",
                 position: "N/A",
@@ -2429,7 +2429,7 @@ const groups = [
             },
             {
                 name: "Jake",
-                image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3ZzwUA-O9DGeDhJUW6EYI_KSts8HsdjxpJhZUXL6na4acqOVpXxmiSM8&s=10",
+                image: "https://cdn.kpopping.com/kpics/2026/07/1784728030948-x8uphh-2.webp",
                 birthname: "Jake Sim (제이크 심)",
                 englishname: "N/A",
                 position: "N/A",
@@ -2468,7 +2468,7 @@ const groups = [
             },
             {
                 name: "Sunghoon",
-                image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOJ-_8CdsRESPZQZZd2L2OBkN3fNnfhzH05jDEammnpaE6So4yxar8hn2P&s=10",
+                image: "https://cdn.kpopping.com/kpics/2026/07/1784466497515-uyeppk-2.jpg",
                 birthname: "Park Sung-hoon (박성훈)",
                 englishname: "N/A",
                 position: "Visual",
@@ -2504,7 +2504,7 @@ const groups = [
             },
             {
                 name: "Sunoo",
-                image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaaVXbgD40w7RF0Am5kejIEoFjdKZ1zJMY3ZLw__CnsCsMWB4gJDYD8K0&s=10",
+                image: "https://cdn.kpopping.com/kpics/2026/07/1784644096861-g15e96-2.jpg",
                 birthname: "Kim Seon-woo (김선우)",
                 englishname: "William, Hunter, James",
                 position: "N/A",
@@ -2542,7 +2542,7 @@ const groups = [
             },
             {
                 name: "Niki",
-                image: "https://preview.redd.it/260109-enhypen-the-sin-vanish-still-knife-2-2-v0-y8zj3cv6obcg1.jpg?width=1080&crop=smart&auto=webp&s=27157f6183ec55cdc55e48676a7bd2c6b7bb66cc",
+                image: "https://cdn.kpopping.com/kpics/2026/07/1784380115003-gp2bjp-0.jpg",
                 birthname: "Nishimura Riki (西村 力)",
                 englishname: "N/A",
                 position: "Dançarino principal, Maknae",
@@ -3192,8 +3192,8 @@ const groups = [
         latestReleases: [
             {
                 language: "Coreano",
-                link: "https://www.youtube.com/watch?v=r1QapH1SIAI",
-                thumb: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJkSdpM3nvPEOlffY7o0bIsMLHyblOcL7hW6Ing_Qr6g&s"
+                link: "https://www.youtube.com/watch?v=sLk8zWUuYTA",
+                thumb: "https://pbs.twimg.com/card_img/2088181080583176192/7jR75ocB?format=jpg&name=orig"
             }
         ],
         members: [
@@ -3522,7 +3522,7 @@ const groups = [
     },
     {
         name: "HEARTS2HEARTS",
-        image: "https://cdn.kpopping.com/kpics/2026/06/1781060720917-lmx8fw-1.png",
+        image: "https://static.wikia.nocookie.net/hearts2hearts/images/a/a5/Hearts2Hearts_Iconic_Heart_group_concept_photo_%2812%29.png/revision/latest/scale-to-width-down/1000?cb=20260814033655",
         debut: "24 de fevereiro de 2025",
         company: "SM Entertainment",
         fandom: "S2U",
@@ -3532,12 +3532,17 @@ const groups = [
                 language: "Coreano",
                 link: "https://www.youtube.com/watch?v=1VqxWNwgf5Q",
                 thumb: "https://i.ytimg.com/vi/1VqxWNwgf5Q/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA3IF9ocPEHjihpxT6d6VSKsT0GZw"
+            },
+            {
+                language: "Japonês",
+                link: "https://www.youtube.com/watch?v=chl0R8C4NJ8",
+                thumb: "https://i.ytimg.com/vi/chl0R8C4NJ8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDtzmt4dg8LSwQQLrQS1FT6rxYtpw"
             }
         ],
         members: [
             {
                 name: "Jiwoo",
-                image: "https://cdn.kpopping.com/kpics/2026/06/1780976082316-9255zr-5.png",
+                image: "https://pbs.twimg.com/media/HPXTvSfaMAAKZos?format=jpg&name=small",
                 birthname: "Choi Ji-woo (최지우)",
                 englishname: "N/A",
                 position: "Líder, Dançarina, Rapper, Vocalista, Visual",
@@ -3573,7 +3578,7 @@ const groups = [
             },
             {
                 name: "Carmen",
-                image: "https://cdn.kpopping.com/kpics/2026/06/1780976082316-kbsk3n-3.png",
+                image: "https://pbs.twimg.com/media/HPXTouvbQAEPfFh?format=jpg&name=small",
                 birthname: "Nyoman Ayu Carmenita",
                 englishname: "N/A",
                 position: "Vocalista",
@@ -3609,7 +3614,7 @@ const groups = [
             },
             {
                 name: "Yuha",
-                image: "https://cdn.kpopping.com/kpics/2026/06/1780976082316-tprt0x-12.png",
+                image: "https://pbs.twimg.com/media/HPXTzD_a4AAPOUV?format=jpg&name=4096x4096",
                 birthname: "Yu Ha-ram (유하람)",
                 englishname: "Maria Yu",
                 position: "Vocalista, Dançarina",
@@ -3645,7 +3650,7 @@ const groups = [
             },
             {
                 name: "Stella",
-                image: "https://cdn.kpopping.com/kpics/2026/06/1780976082316-tr28te-9.png",
+                image: "https://pbs.twimg.com/media/HPXTtRLbMAE-sZV?format=jpg&name=small",
                 birthname: "Kim Da-hyun (김다현)",
                 englishname: "Stella Dahyun Kim",
                 position: "Vocalista",
@@ -3682,7 +3687,7 @@ const groups = [
             },
             {
                 name: "Juun",
-                image: "https://cdn.kpopping.com/kpics/2026/06/1780976512209-kr192v-3.png",
+                image: "https://pbs.twimg.com/media/HPXTrWuacAARiZY?format=jpg&name=4096x4096",
                 birthname: "Kim Ju-eun (김주은)",
                 englishname: "N/A",
                 position: "Dançarina principal, Rapper, Vocalista",
@@ -3718,7 +3723,7 @@ const groups = [
             },
             {
                 name: "Ana",
-                image: "https://cdn.kpopping.com/kpics/2026/06/1780976512209-dgxyzu-4.png",
+                image: "https://pbs.twimg.com/media/HPXTke4aQAA2IaA?format=jpg&name=4096x4096",
                 birthname: "Roh Yu-na (노유나)",
                 englishname: "N/A",
                 position: "Rapper, Vocalista, Visual",
@@ -3753,7 +3758,7 @@ const groups = [
             },
             {
                 name: "Ian",
-                image: "https://cdn.kpopping.com/kpics/2026/06/1780976512209-ripeky-11.png",
+                image: "https://pbs.twimg.com/media/HPXTxBqaEAAglaG?format=jpg&name=small",
                 birthname: "Jeong Lee-an (정이안)",
                 englishname: "N/A",
                 position: "Dançarina, Vocalista, Visual, Center",
@@ -3788,7 +3793,7 @@ const groups = [
             },
             {
                 name: "Yeon",
-                image: "https://cdn.kpopping.com/kpics/2026/06/1780976512209-6hxi0b-12.png",
+                image: "https://pbs.twimg.com/media/HPXTmc6awAACmJy?format=jpg&name=small",
                 birthname: "Kim Na-yeon (김나연)",
                 englishname: "N/A",
                 position: "Vocalista, Maknae",
