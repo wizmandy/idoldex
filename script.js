@@ -9,7 +9,7 @@ const groups = [
         latestReleases: [
             {
                 language: "Japonês",
-                link: "https://www.youtube.com/watch?v=8hU6P7MmRyk",
+                link: "https://www.youtube.com/watch?v=8hU6P7MmRyk", // We on fire
                 thumb: "https://i.ytimg.com/vi/8hU6P7MmRyk/maxresdefault.jpg"
             }
         ],
@@ -340,17 +340,17 @@ const groups = [
         latestReleases: [
             {
                 language: "Coreano",
-                link: "https://www.youtube.com/watch?v=83C3TZ4Zm_o",
+                link: "https://www.youtube.com/watch?v=83C3TZ4Zm_o", // Lemonade
                 thumb: "https://i.ytimg.com/vi/83C3TZ4Zm_o/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBeACMujyNyohDEn2sjJH_7_4TA7w"
             },
             {
                 language: "Japonês",
-                link: "https://www.youtube.com/watch?v=inxzQt78lOk",
+                link: "https://www.youtube.com/watch?v=inxzQt78lOk", // Kiss n tell
                 thumb: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt6dEMc-yTrjhdxFGkYXS0pI7QlgtJ3aFMDZPttb8c97fkPGfBvD0dFQDG&s=10"
             },
             {
                 language: "Inglês",
-                link: "https://www.youtube.com/watch?v=gfk3QLU1x0E",
+                link: "https://www.youtube.com/watch?v=gfk3QLU1x0E", // Better things
                 thumb: "https://i.ytimg.com/vi/gfk3QLU1x0E/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD4J19Wm7Go7mIPfdnVs0tgBNBebQ"
             }
         ],
@@ -514,7 +514,7 @@ const groups = [
         latestReleases: [
             {
                 language: "Coreano",
-                link: "https://www.youtube.com/watch?v=5fNS_nqwVWo",
+                link: "https://www.youtube.com/watch?v=5fNS_nqwVWo", // Blue blood
                 thumb: "https://i.ytimg.com/vi/5fNS_nqwVWo/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC6u--jF754xu6P1_JIC8mwrJbrSw"
             }
         ],
@@ -668,17 +668,17 @@ const groups = [
         latestReleases: [
             {
                 language: "Coreano",
-                link: "https://www.youtube.com/watch?v=9cS2wv6AfHk",
+                link: "https://www.youtube.com/watch?v=9cS2wv6AfHk", // I like it
                 thumb: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ063oJdtcMmE9M7laLsCvySi7ywj4bX0iGJgMJGo9i_i-muJrFHmyp0-w&s=10"
             },
             {
                 language: "Inglês",
-                link: "https://www.youtube.com/watch?v=xn8mQqz2xmM",
+                link: "https://www.youtube.com/watch?v=xn8mQqz2xmM", // Hot sauce
                 thumb: "https://i.ytimg.com/vi/xn8mQqz2xmM/maxresdefault.jpg"
             },
             {
                 language: "Japonês",
-                link: "https://www.youtube.com/watch?v=y3FgAAgMR2A",
+                link: "https://www.youtube.com/watch?v=y3FgAAgMR2A", // Ghost
                 thumb: "https://i.ytimg.com/vi/y3FgAAgMR2A/hqdefault.jpg"
             }
         ],
@@ -951,7 +951,7 @@ const groups = [
         latestReleases: [
             {
                 language: "Coreano",
-                link: "https://www.youtube.com/watch?v=s-KjDJFOh5s",
+                link: "https://www.youtube.com/watch?v=s-KjDJFOh5s", // Thriller
                 thumb: "https://i.ytimg.com/vi/s-KjDJFOh5s/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDc1WKeHQLrIOuvfPRYL325g3Y--w"
             }
         ],
@@ -1174,12 +1174,12 @@ const groups = [
         latestReleases: [
             {
                 language: "Coreano",
-                link: "https://www.youtube.com/watch?v=iqCx5RfI6Tw",
+                link: "https://www.youtube.com/watch?v=iqCx5RfI6Tw", // Zap
                 thumb: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5Bu_zcqlAV0kJ5fhzQsqzuC3ONinJ3J4wya5874yEww&s=10"
             },
             {
                 language: "Japonês",
-                link: "https://www.youtube.com/watch?v=DY-koSeZ6SE",
+                link: "https://www.youtube.com/watch?v=DY-koSeZ6SE", // Domino ~ butterfly effect
                 thumb: "https://i.ytimg.com/vi/DY-koSeZ6SE/maxresdefault.jpg"
             }
         ],
@@ -1412,12 +1412,12 @@ const groups = [
         latestReleases: [
             {
                 language: "Coreano",
-                link: "https://www.youtube.com/watch?v=CgCVZdcKcqY",
+                link: "https://www.youtube.com/watch?v=CgCVZdcKcqY", // Jump
                 thumb: "https://i.ytimg.com/vi/CgCVZdcKcqY/maxresdefault.jpg"
             },
             {
                 language: "Japonês",
-                link: "https://www.youtube.com/watch?v=DjL9di-UIYc",
+                link: "https://www.youtube.com/watch?v=DjL9di-UIYc", // How you like that
                 thumb: "https://i.ytimg.com/vi/DjL9di-UIYc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBreAOlu_5vRl73DnZ5j4NBjQhVQw"
             }
         ],
@@ -1616,12 +1616,12 @@ const groups = [
         latestReleases: [
             {
                 language: "Coreano",
-                link: "https://www.youtube.com/watch?v=dTWxjbJZ238",
+                link: "https://www.youtube.com/watch?v=dTWxjbJZ238", // Adios
                 thumb: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHWDQTPxXLbnAhqBpzNHGLE-1KDvKGlIGuZLGIYyzaz1nDKlyfdLicy2fD&s=10"
             },
             {
                 language: "Japonês",
-                link: "https://www.youtube.com/watch?v=ntLoF0LnAwY",
+                link: "https://www.youtube.com/watch?v=ntLoF0LnAwY", // Boom boom boom
                 thumb: "https://pbs.twimg.com/media/HP5e-UGaUAEa7ss.jpg"
             }
         ],
@@ -1856,7 +1856,7 @@ const groups = [
         latestReleases: [
             {
                 language: "Coreano",
-                link: "https://www.youtube.com/watch?v=h7ITAdTxdxM",
+                link: "https://www.youtube.com/watch?v=h7ITAdTxdxM", // Motion
                 thumb: "https://i.ytimg.com/vi/h7ITAdTxdxM/maxresdefault.jpg"
             }
         ],
@@ -2053,12 +2053,12 @@ const groups = [
         latestReleases: [
             {
                 language: "Coreano",
-                link: "https://www.youtube.com/watch?v=Wkn6s8RuUDg",
+                link: "https://www.youtube.com/watch?v=Wkn6s8RuUDg", // Justice
                 thumb: "https://i.ytimg.com/vi/Wkn6s8RuUDg/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCAQJfRGKiuJ8UIpCpMQzri-Q6kyA"
             },
             {
                 language: "Japonês",
-                link: "https://www.youtube.com/watch?v=b9UxVkTfkVg",
+                link: "https://www.youtube.com/watch?v=b9UxVkTfkVg", // Eclipse
                 thumb: "https://i.ytimg.com/vi/b9UxVkTfkVg/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBfdxVhrCTfFlON4bvYaz3h2kV1rQ"
             }
         ],
@@ -2330,7 +2330,7 @@ const groups = [
     },
     {
         name: "ENHYPEN",
-        image: "https://cdn.kpopping.com/kpics/2026/07/1784208393916-ap9lq8-0.jpg",
+        image: "https://pbs.twimg.com/media/HQNYUQ9bsAA34Yu?format=jpg&name=large",
         debut: "30 de novembro de 2020",
         company: "BE:LIFT Lab",
         fandom: "ENGENE",
@@ -2338,24 +2338,24 @@ const groups = [
         latestReleases: [
             {
                 language: "Coreano",
-                link: "https://www.youtube.com/watch?v=R6e4tBWxIxE",
-                thumb: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqllZICwXEH59h351hthVeqcV99a19XpqGlKcu4PQqTjeTgkyW6ra2-lLL&s=10"
+                link: "https://www.youtube.com/watch?v=MT-4Bk1Lw8g", // Bloody paradise
+                thumb: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmlHdwtdqJGgw2jWK0_Plc8KethLuupk6D2AGrJMoNkhyCb1uPWGO6e04&s=10"
             },
             {
                 language: "Japonês",
-                link: "https://www.youtube.com/watch?v=n2bzA-ksXZI",
+                link: "https://www.youtube.com/watch?v=n2bzA-ksXZI", // We'll be fine
                 thumb: "https://i.ytimg.com/vi/n2bzA-ksXZI/sddefault.jpg"
             },
             {
                 language: "Inglês",
-                link: "https://www.youtube.com/watch?v=qr4oH_06IZM",
+                link: "https://www.youtube.com/watch?v=qr4oH_06IZM", // Loose
                 thumb: "https://i.ytimg.com/vi/qr4oH_06IZM/sddefault.jpg"
             }
         ],
         members: [
             {
                 name: "Jungwon",
-                image: "https://cdn.kpopping.com/kpics/2026/07/1784293780441-4eiml1-1.jpg",
+                image: "https://pbs.twimg.com/media/HPXhJ87aUAA8o00?format=jpg&name=4096x4096",
                 birthname: "Yang Jung-won (양정원)",
                 englishname: "Johnny Yang",
                 position: "Líder",
@@ -2393,7 +2393,7 @@ const groups = [
             },
             {
                 name: "Jay",
-                image: "https://cdn.kpopping.com/kpics/2026/07/1784554177018-j7czeu-0.webp",
+                image: "https://pbs.twimg.com/media/HPXhMq1bwAIbQmg?format=jpg&name=4096x4096",
                 birthname: "Jay Park",
                 englishname: "N/A",
                 position: "N/A",
@@ -2429,7 +2429,7 @@ const groups = [
             },
             {
                 name: "Jake",
-                image: "https://cdn.kpopping.com/kpics/2026/07/1784728030948-x8uphh-2.webp",
+                image: "https://pbs.twimg.com/media/HPXhJ9IaQAIiBZ8?format=jpg&name=4096x4096",
                 birthname: "Jake Sim (제이크 심)",
                 englishname: "N/A",
                 position: "N/A",
@@ -2468,7 +2468,7 @@ const groups = [
             },
             {
                 name: "Sunghoon",
-                image: "https://cdn.kpopping.com/kpics/2026/07/1784466497515-uyeppk-2.jpg",
+                image: "https://pbs.twimg.com/media/HPXhMj7aoAAy6P5?format=jpg&name=4096x4096",
                 birthname: "Park Sung-hoon (박성훈)",
                 englishname: "N/A",
                 position: "Visual",
@@ -2504,7 +2504,7 @@ const groups = [
             },
             {
                 name: "Sunoo",
-                image: "https://cdn.kpopping.com/kpics/2026/07/1784644096861-g15e96-2.jpg",
+                image: "https://pbs.twimg.com/media/HPXhJ9Ia0AAQzeM?format=jpg&name=4096x4096",
                 birthname: "Kim Seon-woo (김선우)",
                 englishname: "William, Hunter, James",
                 position: "N/A",
@@ -2542,7 +2542,7 @@ const groups = [
             },
             {
                 name: "Niki",
-                image: "https://cdn.kpopping.com/kpics/2026/07/1784380115003-gp2bjp-0.jpg",
+                image: "https://pbs.twimg.com/media/HPXhAsTbMAAzfQr?format=jpg&name=4096x4096",
                 birthname: "Nishimura Riki (西村 力)",
                 englishname: "N/A",
                 position: "Dançarino principal, Maknae",
@@ -2627,7 +2627,7 @@ const groups = [
         latestReleases: [
             {
                 language: "Coreano",
-                link: "https://www.youtube.com/watch?v=srA5cabrz1g",
+                link: "https://www.youtube.com/watch?v=srA5cabrz1g", // Zombie
                 thumb: "https://i.ytimg.com/vi/srA5cabrz1g/maxresdefault.jpg"
             }
         ],
@@ -2882,7 +2882,7 @@ const groups = [
         latestReleases: [
             {
                 language: "Coreano",
-                link: "https://www.youtube.com/watch?v=XPbhKiC1JrI",
+                link: "https://www.youtube.com/watch?v=XPbhKiC1JrI", // Midnight special
                 thumb: "https://i.ytimg.com/vi/XPbhKiC1JrI/maxresdefault.jpg"
             }
         ],
@@ -3192,7 +3192,7 @@ const groups = [
         latestReleases: [
             {
                 language: "Coreano",
-                link: "https://www.youtube.com/watch?v=sLk8zWUuYTA",
+                link: "https://www.youtube.com/watch?v=sLk8zWUuYTA", // Vitamin me
                 thumb: "https://pbs.twimg.com/card_img/2088181080583176192/7jR75ocB?format=jpg&name=orig"
             }
         ],
@@ -3530,12 +3530,12 @@ const groups = [
         latestReleases: [
             {
                 language: "Coreano",
-                link: "https://www.youtube.com/watch?v=1VqxWNwgf5Q",
+                link: "https://www.youtube.com/watch?v=1VqxWNwgf5Q", // Lemon tang
                 thumb: "https://i.ytimg.com/vi/1VqxWNwgf5Q/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA3IF9ocPEHjihpxT6d6VSKsT0GZw"
             },
             {
                 language: "Japonês",
-                link: "https://www.youtube.com/watch?v=chl0R8C4NJ8",
+                link: "https://www.youtube.com/watch?v=chl0R8C4NJ8", // Iconic heart
                 thumb: "https://i.ytimg.com/vi/chl0R8C4NJ8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDtzmt4dg8LSwQQLrQS1FT6rxYtpw"
             }
         ],
@@ -3838,17 +3838,17 @@ const groups = [
         latestReleases: [
             {
                 language: "Coreano",
-                link: "https://www.youtube.com/watch?v=FFjDEkZg-54",
+                link: "https://www.youtube.com/watch?v=FFjDEkZg-54", // Gimme dat love
                 thumb: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJf7tYne2U9lhbr0jmzcpT7q4_77vt-NU2DspGrK1GfZ6-CtU4FUSFkmU&s=10"
             },
             {
                 language: "Japonês",
-                link: "https://www.youtube.com/watch?v=DcxiggTs_q4",
+                link: "https://www.youtube.com/watch?v=DcxiggTs_q4", // Where do we go
                 thumb: "https://i.ytimg.com/vi/DcxiggTs_q4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBg-F7F7U_E_bDC0wgXriGOqW-Mww"
             },
             {
                 language: "Inglês",
-                link: "https://www.youtube.com/watch?v=Iewisp9KYRw",
+                link: "https://www.youtube.com/watch?v=Iewisp9KYRw", // I want that
                 thumb: "https://i.ytimg.com/vi/Iewisp9KYRw/maxresdefault.jpg"
             }
         ],
@@ -4116,13 +4116,13 @@ const groups = [
         latestReleases: [
             {
                 language: "Coreano",
-                link: "https://www.youtube.com/watch?v=bMhDJ0S0OBA",
-                thumb: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThQz_mFqtKo1Vks2xVeWyLGMnK3lA4x1qYmKTgqZnfZX6E_MuJfiD7xspg&s=10"
+                link: "https://www.youtube.com/watch?v=jGvihirVVQg", // I got your back
+                thumb: "https://i.ytimg.com/vi/jGvihirVVQg/maxresdefault.jpg"
             },
             {
                 language: "Japonês",
-                link: "https://www.youtube.com/watch?v=-01oDwXKSuE",
-                thumb: "https://i.ytimg.com/vi/-01oDwXKSuE/maxresdefault.jpg"
+                link: "https://www.youtube.com/watch?v=_Pk6xfju3l0", // I got your back
+                thumb: "https://i.ytimg.com/vi/_Pk6xfju3l0/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC-uOhAU9zY1vX45E7QUH5_2CwAtg"
             }
         ],
         members: [
@@ -4318,17 +4318,17 @@ const groups = [
         latestReleases: [
             {
                 language: "Coreano",
-                link: "https://www.youtube.com/watch?v=1jKnI_ib8c8",
+                link: "https://www.youtube.com/watch?v=1jKnI_ib8c8", // Motto
                 thumb: "https://i.ytimg.com/vi/1jKnI_ib8c8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCDdJWwNsXayRw4MW4JN1uxh7to1A"
             },
             {
                 language: "Japonês",
-                link: "https://www.youtube.com/watch?v=cPQniD4MB0w",
+                link: "https://www.youtube.com/watch?v=cPQniD4MB0w", // Rock & roll
                 thumb: "https://i.ytimg.com/vi/cPQniD4MB0w/sddefault.jpg"
             },
             {
                 language: "Inglês",
-                link: "https://www.youtube.com/watch?v=0j0VIkpc9KY",
+                link: "https://www.youtube.com/watch?v=0j0VIkpc9KY", // Gold
                 thumb: "https://i.ytimg.com/vi/0j0VIkpc9KY/maxresdefault.jpg"
             }
         ],
@@ -4521,12 +4521,12 @@ const groups = [
         latestReleases: [
             {
                 language: "Coreano",
-                link: "https://www.youtube.com/watch?v=1Lmy7qwmSMc",
+                link: "https://www.youtube.com/watch?v=1Lmy7qwmSMc", // Blackhole
                 thumb: "https://i.ytimg.com/vi/1Lmy7qwmSMc/maxresdefault.jpg"
             },
             {
                 language: "Japonês",
-                link: "https://www.youtube.com/watch?v=trlOTS4nKO4",
+                link: "https://www.youtube.com/watch?v=trlOTS4nKO4", // Lucid dream
                 thumb: "https://i.ytimg.com/vi/trlOTS4nKO4/maxresdefault.jpg"
             }
         ],
@@ -4780,7 +4780,7 @@ const groups = [
     },
     {
         name: "IZNA",
-        image: "https://preview.redd.it/260523-izna-the-3rd-mini-album-set-the-tempo-concept-photo-v0-hkw2panxru2h1.jpg?width=1080&crop=smart&auto=webp&s=5c15ce0e6e5c38f38891a5f4ef85f90d9414c98a",
+        image: "https://cdn.kpopping.com/kpics/2026/08/1786550489675-b95dee7aa8eb-0.jpg",
         debut: "25 de novembro de 2024",
         company: "WAKEONE Entertainment",
         fandom: "NAYA",
@@ -4788,19 +4788,19 @@ const groups = [
         latestReleases: [
             {
                 language: "Coreano",
-                link: "https://www.youtube.com/watch?v=NQRGAh7ukh8",
+                link: "https://www.youtube.com/watch?v=NQRGAh7ukh8", // Metronome
                 thumb: "https://i.ytimg.com/vi/NQRGAh7ukh8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDCzRH77nP69rD7QJ0dVFljDm6GVg"
             },
             {
                 language: "Japonês",
-                link: "https://www.youtube.com/watch?v=LiZAgfmoQwc",
+                link: "https://www.youtube.com/watch?v=LiZAgfmoQwc", // Beep
                 thumb: "https://i.ytimg.com/vi/LiZAgfmoQwc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB8FlPZf8GaiYkJv_vHUXZk48wISQ"
             }
         ],
         members: [
             {
                 name: "Mai (6º Lugar)",
-                image: "https://www.allkpop.com/upload/2026/05/content/231630/1779568207-image.png",
+                image: "https://cdn.kpopping.com/kpics/2026/08/1786550490859-67347ebf2dca-0.jpg",
                 birthname: "Tomioka Mai (富岡茉衣)",
                 englishname: "Jasmine",
                 position: "Visual",
@@ -4836,7 +4836,7 @@ const groups = [
             },
             {
                 name: "Jeemin (2º Lugar)",
-                image: "https://www.allkpop.com/upload/2026/05/content/231630/1779568256-image.png",
+                image: "https://cdn.kpopping.com/kpics/2026/08/1786550496909-e4f3b9a39d57-0.jpg",
                 birthname: "Bang Jee-min (방지민)",
                 englishname: "N/A",
                 position: "Visual, Center",
@@ -4872,7 +4872,7 @@ const groups = [
             },
             {
                 name: "Koko (4º Lugar)",
-                image: "https://www.allkpop.com/upload/2026/05/content/231632/1779568334-image.png",
+                image: "https://cdn.kpopping.com/kpics/2026/08/1786550498049-6aeba8b89c3c-0.jpg",
                 birthname: "Narai Koko (楢井瑚々)",
                 englishname: "Sera",
                 position: "Dançarina principal",
@@ -4908,7 +4908,7 @@ const groups = [
             },
             {
                 name: "Sarang (5º Lugar)",
-                image: "https://www.allkpop.com/upload/2026/05/content/231636/1779568582-image.png",
+                image: "https://cdn.kpopping.com/kpics/2026/08/1786550502696-aa2ed366606f-0.jpg",
                 birthname: "Ryu Sa-rang (유사랑)",
                 englishname: "N/A",
                 position: "N/A",
@@ -4944,7 +4944,7 @@ const groups = [
             },
             {
                 name: "Jungeun",
-                image: "https://www.allkpop.com/upload/2026/05/content/231636/1779568619-image.png",
+                image: "https://cdn.kpopping.com/kpics/2026/08/1786550503786-9bec3920e981-0.jpg",
                 birthname: "Choi Jung-eun (최정은)",
                 englishname: "Bella Choi",
                 position: "Vocalista principal",
@@ -4980,7 +4980,7 @@ const groups = [
             },
             {
                 name: "Saebi (7º Lugar)",
-                image: "https://www.allkpop.com/upload/2026/05/content/231637/1779568649-image.png",
+                image: "https://cdn.kpopping.com/kpics/2026/08/1786550508512-d78b84ae2e04-0.jpg",
                 birthname: "Jeong Sae-bi (정세비)",
                 englishname: "N/A",
                 position: "Visual, Maknae",
@@ -5065,12 +5065,12 @@ const groups = [
         latestReleases: [
             {
                 language: "Coreano",
-                link: "https://www.youtube.com/watch?v=G8GaQdW2wHc",
+                link: "https://www.youtube.com/watch?v=G8GaQdW2wHc", // Panorama
                 thumb: "https://i.ytimg.com/vi/G8GaQdW2wHc/maxresdefault.jpg"
             },
             {
                 language: "Japonês",
-                link: "https://www.youtube.com/watch?v=QqsvrV1_XEA",
+                link: "https://www.youtube.com/watch?v=QqsvrV1_XEA", // Beware
                 thumb: "https://pbs.twimg.com/media/EjpnGQ1WAAAgNf8.jpg"
             }
         ],
@@ -5613,12 +5613,12 @@ const groups = [
         latestReleases: [
             {
                 language: "Coreano",
-                link: "https://www.youtube.com/watch?v=AMwK8YGZGnU",
+                link: "https://www.youtube.com/watch?v=AMwK8YGZGnU", // Killa
                 thumb: "https://i.ytimg.com/vi/r7b2N8UAU0M/maxresdefault.jpg"
             },
             {
                 language: "Japonês",
-                link: "https://www.youtube.com/watch?v=3nMOUzBZ0ZI",
+                link: "https://www.youtube.com/watch?v=3nMOUzBZ0ZI", // Yum
                 thumb: "https://i.ytimg.com/vi/3nMOUzBZ0ZI/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAUKUpfGgcpimrvaZMze2N9AT1IvA"
             }
         ],
@@ -6042,7 +6042,7 @@ const groups = [
     },
     {
         name: "KIIIKIII",
-        image: "https://pbs.twimg.com/media/G_RW3xeWsAAGdiC.jpg",
+        image: "https://cdn.kpopping.com/kpics/2026/08/1787313976129-88icll-29.jpg",
         debut: "24 de fevereiro de 2025",
         company: "STARSHIP Entertainment",
         fandom: "TIIIKIII",
@@ -6050,14 +6050,14 @@ const groups = [
         latestReleases: [
             {
                 language: "Coreano",
-                link: "https://www.youtube.com/watch?v=zhHB4dZTChw",
-                thumb: "https://i.ytimg.com/vi/zhHB4dZTChw/maxresdefault.jpg"
+                link: "https://www.youtube.com/watch?v=UsbRoaH6y-Q", // Pop off pop off
+                thumb: "https://i.ytimg.com/vi/UsbRoaH6y-Q/sddefault.jpg"
             }
         ],
         members: [
             {
                 name: "Jiyu",
-                image: "https://pbs.twimg.com/media/HKsySPcXIAA-Qne.jpg",
+                image: "https://cdn.kpopping.com/kpics/2026/08/1787313976129-bwmvav-46.jpg",
                 birthname: "Seo Ji-yu (서지유)",
                 englishname: "N/A",
                 position: "Líder, Vocalista, Rapper, Dançarina",
@@ -6093,7 +6093,7 @@ const groups = [
             },
             {
                 name: "Leesol",
-                image: "https://pbs.twimg.com/media/G_TLaliXkAABfsK.jpg",
+                image: "https://cdn.kpopping.com/kpics/2026/08/1787314076807-t8oyj8-9.jpg",
                 birthname: "Lee Su-min (이수민)",
                 englishname: "N/A",
                 position: "Rapper principal",
@@ -6129,7 +6129,7 @@ const groups = [
             },
             {
                 name: "Sui",
-                image: "https://pbs.twimg.com/media/G_RQK02bQAAdH3M.jpg",
+                image: "https://cdn.kpopping.com/kpics/2026/08/1787314076807-o2yl8z-0.jpg",
                 birthname: "Lee Su-bin (이수빈)",
                 englishname: "N/A",
                 position: "Vocalista principal",
@@ -6165,7 +6165,7 @@ const groups = [
             },
             {
                 name: "Haum",
-                image: "https://pbs.twimg.com/media/G_RQErrbwAAdOmF.jpg",
+                image: "https://cdn.kpopping.com/kpics/2026/08/1787313976129-84jfnc-34.jpg",
                 birthname: "Kwak Ha-eum (곽하음)",
                 englishname: "N/A",
                 position: "Vocalista, Rapper, Dançarina, Visual",
@@ -6201,7 +6201,7 @@ const groups = [
             },
             {
                 name: "Kya",
-                image: "https://pbs.twimg.com/media/G_RYamAXoAAyx9a.jpg",
+                image: "https://cdn.kpopping.com/kpics/2026/08/1787313976129-exybfg-38.jpg",
                 birthname: "Park Ji-woo (박지우)",
                 englishname: "N/A",
                 position: "Vocalista, Maknae",
@@ -6239,7 +6239,7 @@ const groups = [
     },
     {
         name: "KISS OF LIFE",
-        image: "https://cdn.kpopping.com/kpics/2026/03/1774418239361-az8f01-0.jpg",
+        image: "https://cdn.kpopping.com/kpics/2026/07/1784646835447-0nvayp-0.jpg",
         debut: "5 de julho de 2023",
         company: "S2 Entertainment",
         fandom: "KISSY",
@@ -6247,19 +6247,19 @@ const groups = [
         latestReleases: [
             {
                 language: "Coreano",
-                link: "https://www.youtube.com/watch?v=ygYPwsjyCzQ",
+                link: "https://www.youtube.com/watch?v=ygYPwsjyCzQ", // Who is she
                 thumb: "https://i.ytimg.com/vi/ygYPwsjyCzQ/maxresdefault.jpg"
             },
             {
                 language: "Japonês",
-                link: "https://www.youtube.com/watch?v=j6OqLm0lQ68",
+                link: "https://www.youtube.com/watch?v=j6OqLm0lQ68", // Lucky
                 thumb: "https://i.ytimg.com/vi/j6OqLm0lQ68/maxresdefault.jpg"
             }
         ],
         members: [
             {
                 name: "Julie",
-                image: "https://cdn.kpopping.com/kpics/2026/03/1774418239362-afes4x-6.jpg",
+                image: "https://cdn.kpopping.com/kpics/2026/07/1784646835447-sngq09-4.jpg",
                 birthname: "Julie Han",
                 englishname: "N/A",
                 position: "Líder, Rapper principal, Dançarina líder",
@@ -6294,7 +6294,7 @@ const groups = [
             },
             {
                 name: "Natty",
-                image: "https://cdn.kpopping.com/kpics/2026/03/1774418239362-82ulw4-9.jpg",
+                image: "https://cdn.kpopping.com/kpics/2026/07/1784646835447-gs89r7-6.jpg",
                 birthname: "Anatchaya Suputtipong (อาณัชญา สุพุทธิพงศ์)",
                 englishname: "N/A",
                 position: "Dançarina principal, Rapper líder, Sub vocalista",
@@ -6331,7 +6331,7 @@ const groups = [
             },
             {
                 name: "Belle",
-                image: "https://cdn.kpopping.com/kpics/2026/03/1774418239362-on6klp-11.jpg",
+                image: "https://cdn.kpopping.com/kpics/2026/07/1784646835447-8mue4c-8.jpg",
                 birthname: "Anabelle Shim / Shim Hye-won (심혜원)",
                 englishname: "N/A",
                 position: "Vocalista principal",
@@ -6367,7 +6367,7 @@ const groups = [
             },
             {
                 name: "Haneul",
-                image: "https://cdn.kpopping.com/kpics/2026/03/1774418239362-7zt7xs-15.jpg",
+                image: "https://cdn.kpopping.com/kpics/2026/07/1784646835447-svgozj-10.jpg",
                 birthname: "Won Ha-neul (원하늘)",
                 englishname: "N/A",
                 position: "Vocalista líder, Maknae",
@@ -6413,17 +6413,17 @@ const groups = [
         latestReleases: [
             {
                 language: "Coreano",
-                link: "https://www.youtube.com/watch?v=V1Lr-_AxeR8",
-                thumb: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGCvYUlRTWhgH4065Tar5DGF-zq-2CVsa_QWIcJNgTbg&s"
+                link: "https://www.youtube.com/watch?v=a2grcJdfXmY", // Celebration
+                thumb: "https://i.ytimg.com/vi/a2grcJdfXmY/maxresdefault.jpg"
             },
             {
                 language: "Inglês",
-                link: "https://www.youtube.com/watch?v=hLvWy2b857I",
-                thumb: "https://i.ytimg.com/vi/hLvWy2b857I/sddefault.jpg?v=653b3728"
+                link: "https://www.youtube.com/watch?v=V1Lr-_AxeR8", // Boompala
+                thumb: "https://i.ytimg.com/vi/V1Lr-_AxeR8/mqdefault.jpg"
             },
             {
                 language: "Japonês",
-                link: "https://www.youtube.com/watch?v=HFZUAXhdnHk",
+                link: "https://www.youtube.com/watch?v=HFZUAXhdnHk", // Different
                 thumb: "https://i.ytimg.com/vi/HFZUAXhdnHk/maxresdefault.jpg"
             }
         ],
@@ -6693,12 +6693,12 @@ const groups = [
         latestReleases: [
             {
                 language: "Coreano",
-                link: "https://www.youtube.com/watch?v=SPYX2y4NzTU",
+                link: "https://www.youtube.com/watch?v=SPYX2y4NzTU", // Flip that
                 thumb: "https://i.ytimg.com/vi/SPYX2y4NzTU/maxresdefault.jpg"
             },
             {
                 language: "Japonês",
-                link: "https://www.youtube.com/watch?v=lLug6h74acE",
+                link: "https://www.youtube.com/watch?v=lLug6h74acE", // Luminous
                 thumb: "https://i.ytimg.com/vi/lLug6h74acE/maxresdefault.jpg"
             }
         ],
@@ -7151,12 +7151,12 @@ const groups = [
         latestReleases: [
             {
                 language: "Coreano",
-                link: "https://www.youtube.com/watch?v=PwcWw96FTgM",
+                link: "https://www.youtube.com/watch?v=PwcWw96FTgM", // Illella
                 thumb: "https://i.ytimg.com/vi/PwcWw96FTgM/mqdefault.jpg"
             },
             {
                 language: "Japonês",
-                link: "https://www.youtube.com/watch?v=HnUfbM_1-Uw",
+                link: "https://www.youtube.com/watch?v=HnUfbM_1-Uw", // Smile
                 thumb: "https://i.ytimg.com/vi/HnUfbM_1-Uw/maxresdefault.jpg"
             }
         ],
@@ -7315,7 +7315,7 @@ const groups = [
         latestReleases: [
             {
                 language: "Coreano",
-                link: "https://www.youtube.com/watch?v=9ARSmN2Fj7s",
+                link: "https://www.youtube.com/watch?v=9ARSmN2Fj7s", // In my hands
                 thumb: "https://i.ytimg.com/vi/9ARSmN2Fj7s/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAM8PnbHIUqFMSROBM6JCDZHNCLNQ"
             }
         ],
@@ -7479,7 +7479,7 @@ const groups = [
     },
     {
         name: "NEWJEANS",
-        image: "https://i0.wp.com/kstationtv.com/wp-content/uploads/2025/02/NJZ.jpg?fit=640%2C800&ssl=1",
+        image: "https://pbs.twimg.com/media/HNzeq6GbQAAlPuW?format=jpg&name=large",
         debut: "22 de julho de 2022",
         company: "Ador e Hybe Labels",
         fandom: "BUNNIES",
@@ -7487,19 +7487,19 @@ const groups = [
         latestReleases: [
             {
                 language: "Coreano",
-                link: "https://www.youtube.com/watch?v=Q3K0TOvTOno",
+                link: "https://www.youtube.com/watch?v=Q3K0TOvTOno", // How sweet
                 thumb: "https://i.ytimg.com/vi/Q3K0TOvTOno/maxresdefault.jpg"
             },
             {
                 language: "Japonês",
-                link: "https://www.youtube.com/watch?v=ZncbtRo7RXs",
+                link: "https://www.youtube.com/watch?v=ZncbtRo7RXs", // Supernatural
                 thumb: "https://i.ytimg.com/vi/ZncbtRo7RXs/maxresdefault.jpg"
             }
         ],
         members: [
             {
                 name: "Minji",
-                image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdFcBDTGkUYLmkEpv1te0Dm55kW7fpNTJHp04OV8V-H6T8CVm79ric0Kkj&s=10",
+                image: "https://i.redd.it/260722-newjeans-update-with-minji-v0-aq9v77e13meh1.jpg?width=3333&format=pjpg&auto=webp&s=e10574b7d3706b60562f1527b8baac6814f1e460",
                 birthname: "Kim Minji (김민지)",
                 englishname: "Marcus",
                 position: "Rapper",
@@ -7535,7 +7535,7 @@ const groups = [
             },
             {
                 name: "Hanni",
-                image: "https://i.redd.it/250207-njz-for-complexcon-hong-kong-2025-february-2025-v0-wftgpfxg5mhe1.jpg?width=1439&format=pjpg&auto=webp&s=75029eaf2b05dba25dab5503ad900b5f57b4d133",
+                image: "https://i.pinimg.com/236x/6f/43/fe/6f43fe033e291b1f5a0fb48e32e2c4f0.jpg",
                 birthname: "Hanni Pham",
                 englishname: "N/A",
                 position: "Vocalista",
@@ -7571,7 +7571,7 @@ const groups = [
             },
             {
                 name: "Haerin",
-                image: "https://pub-dc9a9c6ac2a64ba48bce426ced0ac56a.r2.dev/idols/Haerin2/profile.webp",
+                image: "https://i.redd.it/260722-newjeans-website-update-v0-v7mfpqunvleh1.jpg?width=3333&format=pjpg&auto=webp&s=26888c3060b7f1782be5e948fb46877b770d7828",
                 birthname: "Kang Haerin (강해린)",
                 englishname: "Vanessa Kang",
                 position: "N/A",
@@ -7607,7 +7607,7 @@ const groups = [
             },
             {
                 name: "Hyein",
-                image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0eHsGhNtCFhjDmUUIyN8gh8LF2BdTjuluQmPLKJJkrJcVzfV7IGRstPDK&s=10",
+                image: "https://i.redd.it/260722-hyein-photo-dump-from-newjeans-official-account-v0-qlgj1zm9edfh1.jpg?width=1366&format=pjpg&auto=webp&s=416f2c328e4c6cba7b478a33a8049610f5e38a75",
                 birthname: "Lee Hyein (이혜인)",
                 englishname: "Grace Lee",
                 position: "Maknae",
@@ -7692,7 +7692,7 @@ const groups = [
         latestReleases: [
             {
                 language: "Coreano",
-                link: "https://www.youtube.com/watch?v=6Ycn9qZK09I",
+                link: "https://www.youtube.com/watch?v=6Ycn9qZK09I", // Heavy serenade
                 thumb: "https://i.ytimg.com/vi/6Ycn9qZK09I/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA-PuIhNO551nOADHJYN0l1wGtZsw"
             }
         ],
@@ -7960,12 +7960,12 @@ const groups = [
         latestReleases: [
             {
                 language: "Coreano",
-                link: "https://www.youtube.com/watch?v=m18dRRu9-V4",
+                link: "https://www.youtube.com/watch?v=m18dRRu9-V4", // Unique
                 thumb: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTszpPlVQ89F8dgZaWlpghR2-7LLs0RuvFU0ElmtjcbbuoGV8_c86muXpEW&s=10"
             },
             {
                 language: "Coreano/Inglês",
-                link: "https://www.youtube.com/watch?v=gvw87mowRsc",
+                link: "https://www.youtube.com/watch?v=gvw87mowRsc", // Fall in love again
                 thumb: "https://i.ytimg.com/vi/gvw87mowRsc/maxresdefault.jpg"
             }
         ],
@@ -8183,6 +8183,241 @@ const groups = [
         ]
     },
     {
+        name: "RED VELVET",
+        image: "https://pbs.twimg.com/media/HNwvQSRX0AEhptz.jpg",
+        debut: "1 de agosto de 2014",
+        company: "SM Entertainment",
+        fandom: "REVELUV",
+        instagram: "redvelvet.smtown",
+        latestReleases: [
+            {
+                language: "Coreano",
+                link: "https://www.youtube.com/watch?v=NZP153MUpHY", // Surfin boy
+                thumb: "https://girlgroupstan.com/wp-content/uploads/2026/08/Red-Velvet-Surfin-Boy-MV.jpg"
+            },
+            {
+                language: "Japonês",
+                link: "https://www.youtube.com/watch?v=xGr53sCo62c", // Wildside
+                thumb: "https://i.ytimg.com/vi/xGr53sCo62c/maxresdefault.jpg"
+            }
+        ],
+        members: [
+            {
+                name: "Irene",
+                image: "https://pbs.twimg.com/media/HNwpkz-bcAEWQX4.jpg",
+                birthname: "Bae Ju-hyun (배주현)",
+                englishname: "Irene Bae",
+                position: "Líder, Rapper principal, Dançarina líder, Sub vocalista, Visual, Center",
+                birthday: "29 de março de 1991",
+                zodiacsign: "Áries",
+                chinesezodiacsign: "N/A",
+                height: "1.60 cm",
+                weight: "44 kg",
+                bloodtype: "A",
+                mbti: "ISFJ",
+                nationality: "Coreana",
+                color: "#f7add2",
+                colorname: "Rosa",
+                emoji: "N/A",
+                instagram: "renebaebae",
+                facts: [
+                    "Local de nascimento: Daegu, Coreia do Sul.",
+                    "Família: Pais e um irmão/irmã mais novo(a).",
+                    "Seus apelidos são: Baechu, A 2ª Tiffany, Hyun-ah.",
+                    "Seu animal representativo: Gato (de Happiness a #Cookie Jar), Coelho (de Summer Magic em diante).",
+                    "Sua fruta representativa: Melancia de polpa vermelha.",
+                    "Sua arma representativa: Machado.",
+                    "Sua bebida representativa: Pink Island Ice Tea (Ingredientes: Melancia de polpa vermelha, Pink Ukulele, flor de hibisco vermelho).",
+                    "Talentos/Especialidades: Atuação, Rap.",
+                    "Formação: Haknam High School.",
+                    "Irene não segue nenhuma religião, mas não é ateia.",
+                    "Ela foi selecionada em 2009 por meio de uma audição pública.",
+                    "Ela fez parte do grupo de pré-debut SM Rookies.",
+                    "Ela era próxima de Amber, do f(x), na época em que eram trainees.",
+                    "Seus hobbies são dançar e cozinhar sopa de algas para os aniversários das integrantes.",
+                    "Ela participou do MV de 143, do Henry, e de Why So Serious, do SHINee.",
+                    "Irene não come frango. Quando eu era pequena, passei mal depois de comer frango. Por isso, não como.",
+                    "Ela também não gosta de café.",
+                    "Irene ficou em 41º lugar na lista The 100 Most Beautiful Faces of 2018 (Os 100 Rostos Mais Bonitos de 2018) da TC Candler.",
+                    "Todas as integrantes agora têm seus próprios quartos após se mudarem para um novo apartamento.",
+                    "O tipo ideal de Irene é alguém caloroso/afetuoso."
+                ]
+            },
+            {
+                name: "Seulgi",
+                image: "https://pbs.twimg.com/media/HNwqAaHWAAArEnJ.jpg",
+                birthname: "Kang Seul-gi (강슬기)",
+                englishname: "Angela Kang",
+                position: "Dançarina principal, Vocalista líder",
+                birthday: "10 de fevereiro de 1994",
+                zodiacsign: "Aquário",
+                chinesezodiacsign: "N/A",
+                height: "1.64 cm",
+                weight: "44 kg",
+                bloodtype: "A",
+                mbti: "ISFP",
+                nationality: "Coreana",
+                color: "#f7cc5e",
+                colorname: "Amarelo/Tangerina",
+                emoji: "N/A",
+                instagram: "hi_sseulgi",
+                facts: [
+                    "Local de nascimento: Ansan, Gyeonggi-do, Coreia do Sul.",
+                    "Família: Pai, mãe, oppa (irmão mais velho), avó.",
+                    "Seus apelidos são: Kkangseul, GomDoli e Teddy Bear (Ursinho de Pelúcia).",
+                    "Seus animais representativos: Unicórnio (de Happiness a #Cookie Jar), Urso-polar (apenas na era Summer Magic), Urso-pardo (a partir do lançamento do teaser do Season’s Greetings de 2019).",
+                    "Sua fruta representativa: Abacaxi.",
+                    "Sua arma representativa: Faca.",
+                    "Sua bebida representativa: Yellow Breeze (Ingredientes: Abacaxi, Yellow Igloo, Girassol).",
+                    "Educação: Byungmal Middle School; Seoul School of Performing Arts.",
+                    "Ela fez parte do grupo de pré-debut SM Rookies e foi a primeira integrante a ser revelada.",
+                    "Ela foi selecionada em 2007 por meio de uma audição pública.",
+                    "Especialidades: Violão, japonês.",
+                    "Seus hobbies são desenhar e tocar violão.",
+                    "Ela participou da música Butterfly, do Henry, antes do seu debut, e também apareceu no videoclipe de Fantastic, do Henry.",
+                    "Ela é amiga de Krystal e Sulli, do f(x), e também de Kyuhyun, do Super Junior.",
+                    "Amber, do f(x), deu a Seulgi os apelidos Bear (Urso) e BearSeulgi.",
+                    "Sua altura foi medida durante o programa Kids These Day (Cool Kids) e ela tem 1,60 m.",
+                    "Seulgi ficou em 20º lugar na lista The 100 Most Beautiful Faces of 2018 (Os 100 Rostos Mais Bonitos de 2018) da TC Candler.",
+                    "Seulgi participou, ao lado de outras 6 idols femininas, do programa de TV Idol Drama Operation Team. Elas criaram um grupo feminino de 7 integrantes chamado Girls Next Door, que debutou em 14 de julho de 2017.",
+                    "Ela faz parte do projeto de grupo feminino da SM Station X: Seulgi x SinB x Chungha x Soyeon.",
+                    "Em 4 de outubro de 2022, ela debutou como solista com o miniálbum 28 Reasons.",
+                    "Tipo ideal de Seulgi: Alguém com quem ela se sinta à vontade, que ria muito e que fique bonito(a) ao rir."
+                ]
+            },
+            {
+                name: "Wendy",
+                image: "https://pbs.twimg.com/media/HNwql2HWkAAARk7.jpg",
+                birthname: "Son Seung-wan (손승완)",
+                englishname: "Wendy Son",
+                position: "Vocalista principal",
+                birthday: "21 de fevereiro de 1994",
+                zodiacsign: "Peixes",
+                chinesezodiacsign: "N/A",
+                height: "1.60 cm",
+                weight: "47 kg",
+                bloodtype: "O",
+                mbti: "ISFP",
+                nationality: "Coreana",
+                color: "#a7d4eb",
+                colorname: "Azul",
+                emoji: "N/A",
+                instagram: "todayis_wendy",
+                facts: [
+                    "Local de nascimento: Seongbuk-dong, Seul, Coreia do Sul.",
+                    "Família: Pais e uma irmã mais velha.",
+                    "Seus apelidos são: Olaf, Wan-ah.",
+                    "Seu animal representativo: Cervo (da era Happiness até #Cookie Jar), Esquilo (de Summer Magic em diante).",
+                    "Sua fruta representativa: Laranja de polpa azul.",
+                    "Sua arma representativa: Tesoura.",
+                    "Sua bebida representativa: Blue Crush (Ingredientes: Laranja de polpa azul, fita cassete azul, árvore de folhas azuis).",
+                    "Habilidades: Instrumentos musicais (piano, violão, flauta e saxofone).",
+                    "Educação: Shattuck-Saint Mary’s School; Richmond Hill High School.",
+                    "Ela costumava fazer vídeos para o YouTube, mas excluiu sua conta.",
+                    "Ela fez testes para a CUBE Entertainment antes da SM Entertainment.",
+                    "Ela fez parte do grupo de pré-debut SM Rookies.",
+                    "Ela fala inglês e coreano.",
+                    "Ela toca piano, violão, flauta e saxofone.",
+                    "Seus hobbies são descobrir músicas raras, cozinhar, visitar cafés e cantar.",
+                    "Wendy é próxima de Zuho, do SF9.",
+                    "Ela costumava dividir o quarto com Irene e Seulgi.",
+                    "Atualização: Todas as integrantes agora têm seus próprios quartos após se mudarem para um novo apartamento.",
+                    "Em 25 de dezembro de 2019, Wendy caiu do palco durante os ensaios para o SBS Gayo Daejeon de 2019.",
+                    "Ela tirou um ano de licença para se recuperar, pois sofreu fraturas na pelve e no punho, além de lesões faciais.",
+                    "Wendy debutou como solista em 5 de abril de 2021, com seu primeiro mini-álbum, Like Water.",
+                    "Em 4 de abril de 2025, foi anunciado que ela encerrou seu contrato com a SM Entertainment.",
+                    "Em 25 de abril de 2025, Wendy juntou-se à gravadora ASND como sua nova artista.",
+                    "Tipo ideal de Wendy: Alguém respeitoso, atencioso e que fica bonito ao rir; também alguém que come bem; alguém que seja como seu pai."
+                ]
+            },
+            {
+                name: "Joy",
+                image: "https://pbs.twimg.com/media/HNwqdZFWsAE6X46.jpg",
+                birthname: "Park Soo-young (박수영)",
+                englishname: "Joy Park",
+                position: "Rapper líder, Sub vocalista",
+                birthday: "3 de setembro de 1996",
+                zodiacsign: "Virgem",
+                chinesezodiacsign: "N/A",
+                height: "1.68 cm",
+                weight: "49 kg",
+                bloodtype: "A",
+                mbti: "INFJ",
+                nationality: "Coreana",
+                color: "#94de83",
+                colorname: "Verde",
+                emoji: "N/A",
+                instagram: "_imyour_joy",
+                facts: [
+                    "Local de nascimento: Ilha de Jeju, Coreia do Sul.",
+                    "Família: Pais e duas irmãs mais novas.",
+                    "Seus apelidos são: Doongdoongie, Joy fofa, Malgeumi (radiante).",
+                    "Seu animal representativo: Canário (na era #Cookie Jar) e Pintinho (de Summer Magic em diante).",
+                    "Sua fruta representativa: Kiwi verde (não confundir com kiwi amarelo/gold).",
+                    "Sua arma representativa: Submetralhadora.",
+                    "Sua bebida representativa: Green Sunrise (Ingredientes: kiwi verde, lâmpada verde, folha verde).",
+                    "Ela foi selecionada na Global Audition de 2012, em Seul.",
+                    "Ela não fez parte do SM Rookies.",
+                    "Formação: School of Performing Arts Seoul (SOPA).",
+                    "Ela participou do programa We Got Married, onde seu marido virtual era Sungjae (do BTOB).",
+                    "Ela atuou nos dramas The Liar and His Lover (2017) e The Great Seducer (2018).",
+                    "Ela sabe cantar trot.",
+                    "Ela tem um cachorro chamado Haetnim, que possui uma conta no Instagram: @haetnimee.",
+                    "Seus hobbies são assistir a filmes e cantar boas músicas.",
+                    "Ela é a integrante que mais tira selfies.",
+                    "Dizem que ela se parece com a atriz Kim Yoo Jung.",
+                    "Ela costumava dividir o quarto com a Yeri.",
+                    "Atualização: Todas as integrantes agora têm seus próprios quartos após se mudarem para um novo apartamento.",
+                    "Joy debutou como solista com o álbum Hello em 31 de maio de 2021.",
+                    "Em 23 de agosto de 2021, a P NATION e a SM Entertainment confirmaram que ela estava em um relacionamento com o cantor Crush.",
+                    "Em 26 de abril de 2023, foi anunciado que Joy suspenderia temporariamente suas atividades devido a problemas de saúde. Ela retomou as atividades dois meses depois.",
+                    "Tipo ideal da Joy: Alguém que segue as regras, dedica-se ao seu trabalho e tem opiniões próprias bem definidas."
+                ]
+            },
+            {
+                name: "Yeri",
+                image: "https://pbs.twimg.com/media/HNwqUzLW8AAH7_g.jpg",
+                birthname: "Kim Ye-rim (김예림)",
+                englishname: "Katie Kim",
+                position: "Sub vocalista, Sub rapper, Maknae",
+                birthday: "5 de março de 1999",
+                zodiacsign: "Peixes",
+                chinesezodiacsign: "N/A",
+                height: "1.60 cm",
+                weight: "49 kg",
+                bloodtype: "O",
+                mbti: "INTP",
+                nationality: "Coreana",
+                color: "#cfb8f5",
+                colorname: "Roxo",
+                emoji: "N/A",
+                instagram: "yerimiese",
+                facts: [
+                    "Cidade natal: Seul, Coreia do Sul.",
+                    "Família: Pais e três irmãs mais novas.",
+                    "Seus apelidos são: Squirtle (devido à sua semelhança com o personagem), Yeriana (porque sua cantora favorita é Ariana Grande) e Malgeumi (radiante/brilhante).",
+                    "Seu animal representativo: Tartaruga.",
+                    "Sua fruta representativa: Uva roxa (não confundir com uva verde).",
+                    "Sua arma representativa: Besta (arma de caça).",
+                    "Sua bebida representativa: Violet Punch (Ingredientes: Uva roxa, controle de videogame roxo, foguete roxo).",
+                    "Seu nome em inglês é Katy.",
+                    "Educação: Hanlim Multi Art School.",
+                    "Ela entrou para o grupo no início de 2015.",
+                    "Ela fez parte do SM Rookies.",
+                    "Sua cor favorita é rosa.",
+                    "Sua comida favorita é arroz frito com kimchi e atum.",
+                    "Ela nunca havia usado salto alto até precisar filmar o videoclipe de Automatic, do Red Velvet.",
+                    "Ela é a mais sociável do grupo.",
+                    "Ela costumava dividir o quarto com a Joy.",
+                    "Atualização: Todas as integrantes agora têm seus próprios quartos após se mudarem para um novo apartamento.",
+                    "Em 4 de abril de 2025, foi anunciado que ela havia encerrado seu contrato com a SM Entertainment.",
+                    "Em 1º de maio de 2025, foi anunciado que ela havia ingressado na BLITZWAY ENTERTAINMENT como atriz.",
+                    "Tipo ideal da Yeri: Um homem educado e que saiba ser atencioso com ela."
+                ]
+            },
+        ]
+    },
+    {
         name: "SAY MY NAME",
         image: "https://static.wikia.nocookie.net/kpop/images/d/d9/SAY_MY_NAME_%26Our_Vibe_group_concept_photo_1.png/revision/latest/scale-to-width-down/1200?cb=20251211152733",
         debut: "16 de outubro de 2024",
@@ -8192,7 +8427,7 @@ const groups = [
         latestReleases: [
             {
                 language: "Coreano",
-                link: "https://www.youtube.com/watch?v=-fPz0KoVwog",
+                link: "https://www.youtube.com/watch?v=-fPz0KoVwog", // Ufo (attent!on)
                 thumb: "https://i.ytimg.com/vi/-fPz0KoVwog/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD_itDkqww0TVJsy1smSw5EKCcChw"
             }
         ],
@@ -8497,12 +8732,12 @@ const groups = [
         latestReleases: [
             {
                 language: "Coreano",
-                link: "https://www.youtube.com/watch?v=HgewvBTOJwU",
+                link: "https://www.youtube.com/watch?v=HgewvBTOJwU", // 2 L0ve
                 thumb: "https://i.ytimg.com/vi/HgewvBTOJwU/maxresdefault.jpg"
             },
             {
                 language: "Japonês",
-                link: "https://www.youtube.com/watch?v=YcLXuUpZ-bs",
+                link: "https://www.youtube.com/watch?v=YcLXuUpZ-bs", // Lover, killer
                 thumb: "https://i.ytimg.com/vi/YcLXuUpZ-bs/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDJuWtPG46TkATqIVlS8uDa5c7oSA"
             }
         ],
@@ -8743,7 +8978,7 @@ const groups = [
         latestReleases: [
             {
                 language: "Inglês",
-                link: "https://www.youtube.com/watch?v=cUfDOS2SINM",
+                link: "https://www.youtube.com/watch?v=cUfDOS2SINM", // Hypnotize
                 thumb: "https://i.ytimg.com/vi/cUfDOS2SINM/maxresdefault.jpg"
             }
         ],
